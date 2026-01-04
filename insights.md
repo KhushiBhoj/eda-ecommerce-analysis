@@ -53,7 +53,7 @@ A small number of product categories contribute a disproportionately large share
 
 - Weak Negative Correlations:
 	Delivery delay days show very weak or negative correlation with price and product dimensions.
-	Larger or heavier products are not necessarily delivered slower.
+	Larger or heavier products are not necessarily delivered more slowly.
 
 
 ### 7. Time-Based Trends
@@ -66,31 +66,22 @@ A small number of product categories contribute a disproportionately large share
 - Drops in early months
 - Recovers mid-year before declining toward the dataset’s end
 
-This indicates strong seasonality in customer purchasing behavior.
+*This indicates strong seasonality in customer purchasing behavior.*
 
 ### 8. Customer & Geographic Analysis
-
-Customer Behavior:
+- Customer Behavior:
 All customers in the dataset are one-time buyers, with no repeat purchases observed during the available time period.
 
-Top States by Order Volume:
+- Top States by Order Volume:
+	- São Paulo (SP) has the highest number of orders
+	- Followed by Rio de Janeiro (RJ) and Minas Gerais (MG)
 
-São Paulo (SP) has the highest number of orders
-
-Followed by Rio de Janeiro (RJ) and Minas Gerais (MG)
-
-Order volume is highly concentrated in a few major states.
+*Order volume is highly concentrated in a few major states.*
 
 # Key Takeaways
-
-Prices and freight values are highly skewed with significant outliers.
-
-Delivery delays have a clear negative impact on customer reviews.
-
-Credit cards dominate payment behavior.
-
-Revenue is concentrated in a small number of product categories.
-
-Strong seasonal patterns affect both orders and revenue.
-
-No repeat customer behavior is observed in this dataset.
+- Prices and freight values are highly skewed with significant outliers.
+- Delivery delays have a clear negative impact on customer reviews.
+- Credit cards dominate payment behavior.
+- Revenue is concentrated in a small number of product categories.
+- Strong seasonal patterns affect both orders and revenue.
+- No repeat customer behavior is observed in this dataset.
