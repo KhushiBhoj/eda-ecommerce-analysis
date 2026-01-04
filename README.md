@@ -40,6 +40,6 @@ The key objectives of this analysis are:
 
 ## Tech Stack
 - Python
-- Pandas & NumPy – data manipulation
-- Matplotlib & Seaborn – visualization
+- Pandas & NumPy for data manipulation
+- Matplotlib & Seaborn for data visualization
 - Jupyter Notebook
