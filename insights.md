@@ -58,13 +58,13 @@ A small number of product categories contribute a disproportionately large share
 
 ### 7. Time-Based Trends
 - Order Volume Over Time:
-- The number of orders increases gradually over time, with clear seasonal spikes, especially during holiday periods.
-- A sharp decline is observed near October 2018, corresponding to the end of the dataset.
+	- The number of orders increases gradually over time, with clear seasonal spikes, especially during holiday periods.
+	- A sharp decline is observed near October 2018, corresponding to the end of the dataset.
 
 - Revenue Trends:
-- Peaks during holiday seasons
-- Drops in early months
-- Recovers mid-year before declining toward the dataset’s end
+	- Peaks during holiday seasons
+	- Drops in early months
+	- Recovers mid-year before declining toward the dataset’s end
 
 *This indicates strong seasonality in customer purchasing behavior.*
 
